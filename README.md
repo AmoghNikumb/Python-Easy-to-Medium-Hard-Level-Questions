@@ -1,2 +1,18 @@
-# Python-Easy-to-Medium-Hard-Level-Questions
-This project contains solutions to all the basic Python questions, covering fundamental concepts such as variables, data types, lists, tuples, dictionaries, sets, functions, loops, and conditionals. Each topic has been implemented with clear code examples to help beginners understand Python programming step by step.
+# 🐍 Python Basics – Practice Questions and Solutions
+
+This repository contains a collection of **basic Python questions** along with their solutions.  
+It is designed to help beginners understand and practice fundamental Python concepts through simple and clear examples.
+
+---
+
+## 📚 Topics Covered
+- ✅ Variables & Data Types  
+- ✅ Strings & String Operations  
+- ✅ Lists & List Methods  
+- ✅ Tuples  
+- ✅ Sets  
+- ✅ Dictionaries  
+- ✅ Conditional Statements (`if-else`)  
+- ✅ Loops (`for`, `while`)  
+- ✅ Functions  
+- ✅ Basic Problem-Solving Questions  
