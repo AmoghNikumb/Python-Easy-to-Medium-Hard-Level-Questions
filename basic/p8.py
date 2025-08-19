@@ -1,0 +1,6 @@
+x=print("This is my variable 1")
+y=print("This is my variable 2")
+print(x)
+print(y)
+del(x)
+print(y)

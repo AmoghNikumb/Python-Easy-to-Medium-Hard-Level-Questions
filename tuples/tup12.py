@@ -1,0 +1,6 @@
+tup1= (10, 20, 10, 20, 30, 40)
+count_20 = tup1.count(20)
+count_30 = tup1.count(30)
+print("Number of times 20 occurs:", count_20)
+print("Number of times 30 occurs:", count_30)
+print("Elements in reverse order:", tup1[::-1])

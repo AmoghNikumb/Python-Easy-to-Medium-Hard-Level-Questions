@@ -1,0 +1,7 @@
+set1 = set('abcdef')
+print(set1)
+print(type(set1))
+set1.add('String1')
+print(set1)
+set1.add(8)
+print(set1)

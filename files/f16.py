@@ -1,0 +1,5 @@
+File1=open('File2.txt','a')
+File1.write("\nwb Writes the file in binary form")
+File1.write("\nrb Reads the file in binary form")
+File1.close()
+print("Completed!")

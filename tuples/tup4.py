@@ -1,0 +1,5 @@
+tup1 = ('Physics','Chemistry',1000,2000)
+tup2 = (1,2,3.1,2.4)
+print(tup1[0])
+print(tup2[1:5])
+print(len(tup2))

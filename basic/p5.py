@@ -1,0 +1,5 @@
+a= int(input("Enter a number: "))
+b= int(input("Enter a number: "))
+print(type(a))
+print(type(b))
+print("Sum of a and b is ",a+b)

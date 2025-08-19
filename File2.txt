@@ -1,0 +1,3 @@
+Hello WorldWelcome to PythonWe are doing File HandlingLets Create a File
+wb Writes the file in binary form
+rb Reads the file in binary form
